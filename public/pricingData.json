@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "plan": "Starter",
+    "price": "$0/mo",
+    "features": [
+      "1 Active Project",
+      "5GB Cloud Storage",
+      "Community Support",
+      "Basic Analytics",
+      "Mobile App Access",
+      "Public API Access"
+      
+    ],
+    "button_text": "Buy Now"
+  },
+  {
+    "id": 2,
+    "plan": "Professional",
+    "price": "$29/mo",
+    "features": [
+      "15 Active Projects",
+      "100GB Cloud Storage",
+      "Priority Email Support",
+      "Advanced Analytics",
+      "Custom Domains",
+      "No Ads Experience",
+      "Daily Auto Backups",
+      "Up to 10 Collaborators"
+     
+    ],
+    "button_text": "Buy Now"
+  },
+  {
+    "id": 3,
+    "plan": "Enterprise",
+    "price": "$99/mo",
+    "features": [
+      "Unlimited Projects",
+      "1TB Cloud Storage",
+      "24/7 Dedicated Support",
+      "Real-time Analytics",
+      "White Labeling",
+      "Custom Branding",
+      "Hourly Backups",
+      "Unlimited Collaborators",
+      "SAML/SSO Login",
+      "Personal Account Manager"
+    ],
+    "button_text": "Buy Now"
+  }
+]

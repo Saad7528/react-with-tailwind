@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "student_name": "Rahim Ahmed",
+    "marks": {
+      "bangla": 85,
+      "english": 78,
+      "math": 92
+    }
+  },
+  {
+    "id": 2,
+    "student_name": "Karim Ullah",
+    "marks": {
+      "bangla": 72,
+      "english": 65,
+      "math": 80
+    }
+  },
+  {
+    "id": 3,
+    "student_name": "Sumaiya Akter",
+    "marks": {
+      "bangla": 90,
+      "english": 88,
+      "math": 95
+    }
+  },
+  {
+    "id": 4,
+    "student_name": "Tanvir Hasan",
+    "marks": {
+      "bangla": 60,
+      "english": 55,
+      "math": 58
+    }
+  },
+  {
+    "id": 5,
+    "student_name": "Mitu Islam",
+    "marks": {
+      "bangla": 82,
+      "english": 75,
+      "math": 85
+    }
+  },
+  {
+    "id": 6,
+    "student_name": "Sajid Khan",
+    "marks": {
+      "bangla": 45,
+      "english": 40,
+      "math": 50
+    }
+  },
+  {
+    "id": 7,
+    "student_name": "Nabila Sultana",
+    "marks": {
+      "bangla": 88,
+      "english": 92,
+      "math": 89
+    }
+  },
+  {
+    "id": 8,
+    "student_name": "Arif Rayhan",
+    "marks": {
+      "bangla": 30,
+      "english": 45,
+      "math": 32
+    }
+  },
+  {
+    "id": 9,
+    "student_name": "Rupa Khatun",
+    "marks": {
+      "bangla": 77,
+      "english": 81,
+      "math": 79
+    }
+  },
+  {
+    "id": 10,
+    "student_name": "Fahim Shahriar",
+    "marks": {
+      "bangla": 95,
+      "english": 98,
+      "math": 100
+    }
+  }
+]
